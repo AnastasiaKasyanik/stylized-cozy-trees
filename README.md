@@ -10,7 +10,7 @@ Clone this project with:
 ```
 git clone https://github.com/AnastasiaKasyanik/stylized-cozy-trees
 ```
-Once cloned, you can just open the UE5 project and you'll already be on the right level. The materials, textures and 3D meshes are all sorted in their respective folders.
+Once cloned, you can just open the UE5 project and you'll already be in the right level. The materials, textures and 3D meshes are all sorted in their respective folders.
 
 # For what purpose?
 It’s free to use for whatever project you want. Just be creative! 
